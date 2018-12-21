@@ -1,4 +1,4 @@
 # Keyboard
-JavaScript event handling play with audio. Just for fun purpose.
+JavaScript event handling play with audio
 
-Demo: http://joelmaneskold.wieg17.se/Keyboard/
+Demo: http://joelm.se/keyboard/
